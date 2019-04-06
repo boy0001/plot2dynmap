@@ -1,4 +1,8 @@
 Plot2Dynmap
 ===========
 
-Plot^2 dynmap addon.
+Dynmap addon for PlotSquared 4.
+
+## Links
+- Downloads: [link](https://github.com/IntellectualSites/plot2dynmap)
+- Spigot: [link](https://www.spigotmc.org/resources/plot2dynmap.1292/)
